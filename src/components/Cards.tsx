@@ -5,7 +5,7 @@ export default function Cards() {
   const testimonials = [
     {
       quote:
-        "I couldn&apos;t be happier with the quality of work delivered by Techno-Geeks. They went above and beyond to meet my project requirements and exceeded my expectations. Their professionalism and attention to detail were truly impressive. I highly recommend their services to anyone looking for top-notch freelancers!",
+        "I could not be happier with the quality of work delivered by Techno-Geeks. They went above and beyond to meet my project requirements and exceeded my expectations. Their professionalism and attention to detail were truly impressive. I highly recommend their services to anyone looking for top-notch freelancers!",
       name: "Sudhir Dey",
       title: "Senior Developer - OneWay",
     },
