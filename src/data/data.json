@@ -1,67 +1,74 @@
 {
-    "data": [
-      {
-        "title": "Himadri Roy (Founder)",
-        "description": "AI/ML",
-        "image": "/assets/Himadri.jpg",
-        "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/odincoder1605"
-      },
-      {
-        "title": "Srinjoy Rakshit (Co Founder)",
-        "description": "Frontend Developer",
-        "image": "/assets/jishu.jpg",
-        "linkedIn": "https://www.linkedin.com/in/srinjoy-rakshit-6a814b21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/SrinjoyRakshit"
-      },
-      {
-        "title": "Kuntal Gain (Co Founder)",
-        "description": "Mobile App Developer",
-        "image": "/assets/Kuntal.jpg",
-        "linkedIn": "http://linkedin.com/in/kuntal-gain",
-        "github": "http://github.com/KuntalGain"
-      },
-      {
-        "title": "Rupam Das",
-        "description": "Mobile App Developer",
-        "image": "/assets/Rupam.jpg",
-        "linkedIn": "https://www.linkedin.com/in/rupam-das-8a0244293/",
-        "github": "https://github.com/rupamapcn"
-      },
-      {
-        "title": "Abhishek Rajak",
-        "description": "Mobile App Developer",
-        "image": "/assets/Abhishek.jpg",
-        "linkedIn": "https://www.linkedin.com/in/abhishek-rajak-1b1809252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/RajakAbhi"
-      },
-      {
-        "title": "Sumit Das",
-        "description": "Frontend Developer",
-        "image": "/assets/Sumit.jpg",
-        "linkedIn": "https://www.linkedin.com/in/sumit-das-35a8bb247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/sumitdas16"
-      },
-      {
-        "title": "Ankur Singh",
-        "description": "Full Stack Developer",
-        "image": "/assets/Ankur.jpg",
-        "linkedIn": "https://www.linkedin.com/in/ankur-kumar-singh-1ba945258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/odincoder1605"
-      },
-      {
-        "title": "Subhadeep Maity",
-        "description": "Data Analyst",
-        "image": "/assets/Maity.jpg",
-        "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/SuvadipMaity"
-      },
-      {
-        "title": "Partha Sarathi Ghosh",
-        "description": "Video Editor",
-        "image": "/assets/partha.jpg",
-        "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "github": "https://github.com/odincoder1605"
-      }
-    ]
+  "data": [
+    {
+      "title": "Himadri Roy (Founder)",
+      "description": "AI/ML",
+      "image": "/assets/Himadri.jpg",
+      "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/odincoder1605"
+    },
+    {
+      "title": "Srinjoy Rakshit (Co Founder)",
+      "description": "Frontend Developer",
+      "image": "/assets/jishu.jpg",
+      "linkedIn": "https://www.linkedin.com/in/srinjoy-rakshit-6a814b21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/SrinjoyRakshit"
+    },
+    {
+      "title": "Kuntal Gain (Co Founder)",
+      "description": "Mobile App Developer",
+      "image": "/assets/Kuntal.jpg",
+      "linkedIn": "http://linkedin.com/in/kuntal-gain",
+      "github": "http://github.com/KuntalGain"
+    },
+    {
+      "title": "Rupam Das",
+      "description": "Mobile App Developer",
+      "image": "/assets/Rupam.jpg",
+      "linkedIn": "https://www.linkedin.com/in/rupam-das-8a0244293/",
+      "github": "https://github.com/rupamapcn"
+    },
+    {
+      "title": "Abhishek Rajak",
+      "description": "Mobile App Developer",
+      "image": "/assets/abhisekh.jpg",
+      "linkedIn": "https://www.linkedin.com/in/abhishek-rajak-1b1809252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/RajakAbhi"
+    },
+    {
+      "title": "Sumit Das",
+      "description": "Frontend Developer",
+      "image": "/assets/Sumit.jpg",
+      "linkedIn": "https://www.linkedin.com/in/sumit-das-35a8bb247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/sumitdas16"
+    },
+    {
+      "title": "Ankur Singh",
+      "description": "Full Stack Developer",
+      "image": "/assets/Ankur.jpg",
+      "linkedIn": "https://www.linkedin.com/in/ankur-kumar-singh-1ba945258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/odincoder1605"
+    },
+    {
+      "title": "Subhadeep Maity",
+      "description": "Data Analyst",
+      "image": "/assets/Maity.jpg",
+      "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/SuvadipMaity"
+    },
+    {
+      "title": "Partha Sarathi Ghosh",
+      "description": "Video Editor",
+      "image": "/assets/partha.jpg",
+      "linkedIn": "https://www.linkedin.com/in/himadri-roy-90b7492a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/odincoder1605"
+    },
+    {
+      "title": "Ankush Bhadra",
+      "description": "Project Manager",
+      "image": "/assets/ankush.jpg",
+      "linkedIn": "https://www.linkedin.com/in/ankush-bhadra-77b703326/",
+      "github": "https://github.com/Ankush-bhadra"
+    }
+  ]
 }
